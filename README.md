@@ -19,23 +19,6 @@ This project is designed to:
   4. 🗄️ SQLite database storage (portable, single file).
   5. 💡 Simple CLI interface.
 
-📂 Project Structure
-
-expense-tracker/
-│── app/
-│   ├── __init__.py
-│   ├── models.py        # Database models (SQLAlchemy)
-│   ├── database.py      # DB engine & session setup
-│   ├── crud.py          # CRUD operations
-│   ├── tracker.py       # ExpenseTracker class
-│── tests/
-│   └── test_crud.py     # Unit tests (pytest)
-│── main.py              # CLI entry point
-│── requirements.txt     # Dependencies
-│── README.md            # Project documentation
-│── .gitignore
-
-
 ▶️ How to Run
 
 1. Clone the repo
