@@ -23,8 +23,8 @@ This project is designed to:
 
 1. Clone the repo
 
-git clone https://github.com/anish6701/expense-tracker.git
-cd expense-tracker-sqlite
+git clone https://github.com/anish6701/expense-tracker.git \n
+cd expense-tracker
 
 2. Create virtual environment
 
